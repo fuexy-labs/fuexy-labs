@@ -1,4 +1,4 @@
-# 🦊 Fuexy's Hardware-Bastelstube
+# 🦊 Fuexy's Bastelstube
 
 Hier dokumentiere ich meine Laptop-Flotte, Umbauten und Benchmarks.
 
@@ -19,27 +19,29 @@ Hier dokumentiere ich meine Laptop-Flotte, Umbauten und Benchmarks.
 
 ## 🛠 Details & Ergebnisse
 
-### 🐲 MSI Drache (GE70)
+### 🐲 Drache (MSI GE70)
 - **CPU-Mod:** Upgrade von i5-3230M auf i7-3632QM
 - **RAM:** 16 GB
 - **Grafik:** Nvidia Geforce GTX 660m
-- **Benchmarks:** - Windows 10: 2906 pts
-  - Linux Mint: 2867 pts
+- **Benchmarks R23:** - Windows 10: 2906 pts
+  - Originalzustand: 1449 pts
 
 ---
 
-### 🦄 Toshiba Einhorn (C660)
-- **CPU:** Intel i5-2450M
-- **Benchmarks:**
+### 🦄 Einhorn (C660)
+- **CPU:** Intel i5-2450M auf i7-2720qm
+- **Benchmarks R23:**
   - Aktueller Stand: 2238 pts
   - Originalzustand: ca. 14xx pts
 
 ---
 
-### 👻 Ghost Whistler (C855)
+### 👻 Ghost (C855)
 - **Status:** In Vorbereitung
 - **Geplantes Upgrade:** Intel i7-3840QM
-- **OS:** Linux Mint (geplant)
+- **Benchmarks R23:**
+  - Aktueller Stand: 3049 pts
+  - Originalzustand: 1449 pts
 
 ---
 
