@@ -13,7 +13,7 @@ Hier dokumentiere ich meine Laptop-Flotte, Umbauten und Benchmarks.
 * **Maulwurf** (C50) - Status: In Arbeit
 * **Laptop 6** - Status: Warteschlange
 * **Laptop 7** - Status: Warteschlange
-* **Werkstatt-PC** - Status: Aktiv
+* **Werkstatt-PC** - Status: Aktiv (Ryzen 5 2400G) 4729 pts (R23)
 
 ---
 
@@ -23,7 +23,8 @@ Hier dokumentiere ich meine Laptop-Flotte, Umbauten und Benchmarks.
 - **CPU-Mod:** Upgrade von i5-3230M auf i7-3632QM
 - **RAM:** 16 GB
 - **Grafik:** Nvidia Geforce GTX 660m
-- **Benchmarks R23:** - Windows 10: 2906 pts
+- **Benchmarks R23:** -
+  - Windows 10: 2906 pts
   - Originalzustand: 1449 pts
 
 ---
@@ -32,13 +33,13 @@ Hier dokumentiere ich meine Laptop-Flotte, Umbauten und Benchmarks.
 - **CPU:** Intel i5-2450M auf i7-2720qm
 - **Benchmarks R23:**
   - Aktueller Stand: 2238 pts
-  - Originalzustand: ca. 14xx pts
+  - Originalzustand: 1344 pts
 
 ---
 
 ### 👻 Ghost (C855)
 - **Status:** In Vorbereitung
-- **Upgrade:** Intel i7-3840QM
+- **Upgrade:** Intel i5-3230M auf i7-3840QM
 - **Benchmarks R23:**
   - Aktueller Stand: 3049 pts
   - Originalzustand: 1449 pts
@@ -46,8 +47,8 @@ Hier dokumentiere ich meine Laptop-Flotte, Umbauten und Benchmarks.
 ---
 
 ### 🐺 Wolf (L750)
-- **Status:** In Vorbereitung
-- **Geplantes Upgrade:** Intel i7-2760QM
+- **Status:** Down 
+- **Upgrade:** Intel i5-1450M auf i7-2760QM
 
 ---
 
