@@ -38,7 +38,7 @@ Hier dokumentiere ich meine Laptop-Flotte, Umbauten und Benchmarks.
 
 ### 👻 Ghost (C855)
 - **Status:** In Vorbereitung
-- **Geplantes Upgrade:** Intel i7-3840QM
+- **Upgrade:** Intel i7-3840QM
 - **Benchmarks R23:**
   - Aktueller Stand: 3049 pts
   - Originalzustand: 1449 pts
