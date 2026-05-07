@@ -6,11 +6,11 @@ Hier dokumentiere ich meine Laptop-Flotte, Umbauten und Benchmarks.
 
 ## 💻 Mein Fuhrpark (Übersicht)
 
-* **MSI Drache** (GE70) - Status: Aktiv (i7-Upgrade)
-* **Toshiba Einhorn** (C660) - Status: Aktiv
-* **Ghost Whistler** (C855) - Status: In Arbeit (Wartet auf i7-3840QM)
-* **Wolf** (L750) - Status: In Arbeit (Wartet auf i7-2760QM)
-* **Laptop 5** - Status: Warteschlange
+* **MSI Drache** (GE70) - Status: Aktiv
+* **Einhorn** (C660) - Status: In bearbeitung
+* **Ghost** (C855) - Status: Aktiv
+* **Wolf** (L750) - Status: In Arbeit 
+* **Maulwurf** (C50) - Status: In Arbeit
 * **Laptop 6** - Status: Warteschlange
 * **Laptop 7** - Status: Warteschlange
 * **Werkstatt-PC** - Status: Aktiv
