@@ -1,57 +1,40 @@
-# 🦊 Fuexy's Bastelstube
+# 🦊 Fuexy's Hardware-Bastelstube (Tech-Archive)
 
-Hier dokumentiere ich meine Laptop-Flotte, Umbauten und Benchmarks.
+Willkommen! Hier findest du Benchmarks, Modding mit Linux Mint auf klassischer Hardware.
 
----
-
-## 💻 Mein Fuhrpark (Übersicht)
-
-* **MSI Drache** (GE70) - Status: Aktiv
-* **Einhorn** (C660) - Status: In bearbeitung
-* **Ghost** (C855) - Status: Aktiv
-* **Wolf** (L750) - Status: In Arbeit 
-* **Maulwurf** (C50) - Status: In Arbeit
-* **Laptop 6** - Status: Warteschlange
-* **Laptop 7** - Status: Warteschlange
-* **Werkstatt-PC** - Status: Aktiv (Ryzen 5 2400G) 4729 pts (R23)
+## 🚀 Benchmark-Ranking (R23)
+* **Ghost (Toshiba C855)** | i7-3840QM Mod | **3049 pts**
+* **MSI Drache (GE70)** | i7-3632QM Mod | **2906 pts**
+* **Einhorn (Toshiba C660)** | i7-2720QM Mod | **2238 pts**
+* **Werkstatt-PC** | Ryzen 5 2400G | **4729 pts**
 
 ---
 
-## 🛠 Details & Ergebnisse
+## 💻 Die Projekte im Detail
 
-### 🐲 Drache (MSI GE70)
-- **CPU-Mod:** Upgrade von i5-3230M auf i7-3632QM
-- **RAM:** 16 GB
-- **Grafik:** Nvidia Geforce GTX 660m
-- **Benchmarks R23:** -
-  - Windows 10: 2906 pts
-  - Originalzustand: 1449 pts
+### 🐲 [MSI Drache (GE70)](./MSI-Drache)
+* **Highlights:** i7-3632QM, 16GB RAM, GTX 660m.
+* **Status:** Läuft
+* [-> Zur ganzen Geschichte](./MSI-Drache)
 
----
+### 🦄 [Einhorn (Toshiba C660)](./Einhorn)
+* **Highlights:** i7-2720QM Upgrade, 16GB RAM.
+* **Status:** Im Bau
+* [-> Zum Modding-Bericht](./Einhorn)
 
-### 🦄 Einhorn (C660)
-- **CPU:** Intel i5-2450M auf i7-2720qm
-- **Benchmarks R23:**
-  - Aktueller Stand: 2238 pts
-  - Originalzustand: 1344 pts
+### 👻 [Ghost (Toshiba C855)](./Ghost)
+* **Highlights:** Kraftpaket mit i7-3840QM.
+* **Status:** Im Einsatz 
+* [-> Zur Hardware-Story](./Ghost)
 
----
+### 🐺 [Wolf (Toshiba L750)](./Wolf)
+* **Highlights:** i7-2760QM Upgrade geplant.
+* **Status:** ⚠️ In Reparatur 
+* [-> Zur Story ](./Wolf)
 
-### 👻 Ghost (C855)
-- **Status:** In Vorbereitung
-- **Upgrade:** Intel i5-3230M auf i7-3840QM
-- **Benchmarks R23:**
-  - Aktueller Stand: 3049 pts
-  - Originalzustand: 1449 pts
+### 🐹 [Maulwurf (Toshiba C50)](./Maulwurf)
+* **Highlights:** WLAN-Brücke (867 Mbps Mod).
+* **Status:** Umbau zum Dach-Repeater.
+* [-> Zum Netzwerk-Projekt](./Maulwurf)
 
----
-
-### 🐺 Wolf (L750)
-- **Status:** Down 
-- **Upgrade:** Intel i5-1450M auf i7-2760QM
-
----
-
-### 💻 Weitere Geräte
-*(Hier kannst du später Laptop 5, 6, 7 und den PC ergänzen)*
 
