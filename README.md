@@ -15,7 +15,7 @@ Willkommen! Hier findest du Benchmarks, Modding mit Linux Mint auf klassischer H
 ### 🐲 [MSI Drache (GE70)](./MSI-Drache)
 * **Highlights:** i7-3632QM, 16GB RAM, GTX 660m.
 * **Status:** Läuft
-* [-> Zur ganzen Geschichte](./MSI-Drache)
+* [-> Zur ganzen Geschichte](./MSI-Drache/README.md)
 
 ### 🦄 [Einhorn (Toshiba C660)](./Einhorn)
 * **Highlights:** i7-2720QM Upgrade, 16GB RAM.
