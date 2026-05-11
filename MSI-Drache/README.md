@@ -1,4 +1,4 @@
-# 🐉 Projekt: Der Drache (MSI GE70)
+# 🐉 Projekt: Der Drache (MSI GE70 / MS-1756)
 
 **Status:** Finalisiert / Referenz-System  
 **Konzept:** Die Benchmark-Urmacht und stabiler PC für meinen Partner Fennek.
