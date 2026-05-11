@@ -20,21 +20,21 @@ Willkommen! Hier findest du Benchmarks, Modding mit Linux Mint auf klassischer H
 ### 🦄 [Einhorn (Toshiba C660)](./Einhorn)
 * **Highlights:** i7-2720QM Upgrade, 16GB RAM.
 * **Status:** Im Bau
-* [-> Zum Modding-Bericht](./Einhorn)
+* [-> Zum Modding-Bericht](./Einhorn/README.md)
 
 ### 👻 [Ghost (Toshiba C855)](./Ghost)
 * **Highlights:** Kraftpaket mit i7-3840QM.
 * **Status:** Im Einsatz 
-* [-> Zur Hardware-Story](./Ghost)
+* [-> Zur Hardware-Story](./Ghost/README.md)
 
 ### 🐺 [Wolf (Toshiba L750)](./Wolf)
 * **Highlights:** i7-2760QM Upgrade geplant.
 * **Status:** ⚠️ In Reparatur 
-* [-> Zur Story ](./Wolf)
+* [-> Zur Story ](./Wolf/README.md)
 
 ### 🐹 [Maulwurf (Toshiba C50)](./Maulwurf)
 * **Highlights:** WLAN-Brücke (867 Mbps Mod).
 * **Status:** Umbau zum Dach-Repeater.
-* [-> Zum Netzwerk-Projekt](./Maulwurf)
+* [-> Zum Netzwerk-Projekt](./Maulwurf/README.md)
 
 
