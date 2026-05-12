@@ -4,15 +4,15 @@ Willkommen! Hier findest du Benchmarks, Modding mit Linux Mint auf klassischer H
 
 ## 🚀 Benchmark-Ranking (R23)
 * **Ghost (Toshiba C855)** | i7-3840QM Mod | **3049 pts**
-* **MSI Drache (GE70)** | i7-3632QM Mod | **2906 pts**
+* **Drache (MSI GE70)** | i7-3632QM Mod | **2906 pts**
 * **Einhorn (Toshiba C660)** | i7-2720QM Mod | **2238 pts**
-* **Werkstatt-PC** | Ryzen 5 2400G | **4729 pts**
+* **HOME PC** | Ryzen 5 2400G | **4729 pts**
 
 ---
 
 ## 💻 Die Projekte im Detail
 
-### 🐲 [MSI Drache (GE70)](./MSI-Drache)
+### 🐲 [Drache (MSI GE70)](./MSI-Drache)
 * **Highlights:** i7-3632QM, 16GB RAM, GTX 660m.
 * **Status:** Läuft
 * [-> Zur ganzen Geschichte](./MSI-Drache/README.md)
