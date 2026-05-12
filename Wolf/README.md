@@ -1,4 +1,4 @@
-# 🐺 Projekt: Der Wolf (Toshiba Satellite L755)
+# 🐺 Projekt: Der Wolf (Toshiba Satellite L755-15R)
 
 **Status:** DOWN / Instandsetzung (Warte auf NEC-TOKIN Workaround)  
 **Konzept:** Sandy-Bridge-Workstation als Power-Konkurrent zum "Drachen" (MSI GE70).
